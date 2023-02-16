@@ -15,8 +15,8 @@
     </p>
     <ul>
       <li>
-        Find a faithful companion for this adventure (or risk going it alone ( ͡°
-        ͜ʖ ͡°) ).
+        Find a faithful companion for this adventure (or risk going it alone
+        😏).
       </li>
       <li>Join the queue.</li>
       <li>Put €1 per person in the chest (€2 per couple).</li>
@@ -33,18 +33,27 @@
     <h2>Rules of the game</h2>
     <ul>
       <li>
-        It is forbidden for the challenging pair to use any kind of joker,
-        advantage or cheat in the game.
-      </li>
-      <li>
         The challenged duo (Javi and Victor) has 3 jokers throughout the game:
         repeat an attempt, eliminate half of the options and retry a question.
       </li>
       <li>
-        The last crown of either team is played as a direct challenge against
+        It is forbidden for the challenging pair to use any kind of joker,
+        advantage or cheat in the game that has not been obtained prior to the
+        start of the game.
+      </li>
+      <li>
+        The way to obtain the clues or jokers before the game by the challenging
+        pair is by paying an additional €1 for each clue they wish to obtain,
+        with a maximum of 3 clues per game. The payment is made as a pair and
+        not individually, so each clue is NOT 1 € per person, but 50 cts, being
+        2,5 € the total to be paid per member if they decide to play with all
+        the possible jokers.
+      </li>
+      <li>
+        The last crown of any of the teams is played by direct challenge against
         the opposing pair, as long as the result is not 5-0 in favour of either
-        team, in which case the last crown can be obtained by the classic direct
-        question procedure.
+        team, in which case the last crown can be obtained by the classic
+        procedure of direct question.
       </li>
       <li>
         Sportsmanship and competitiveness are essential in equal parts to make
@@ -81,7 +90,7 @@
     <ul>
       <li>
         Busca un fiel compañero para esta aventura (o corre el riesgo de ir solo
-        ( ͡° ͜ʖ ͡°) )
+        😏).
       </li>
       <li>Súmate a la cola.</li>
       <li>Introduce 1€ por persona en el cofre (2€ por pareja)</li>
@@ -98,13 +107,22 @@
     <h2>Reglas del juego</h2>
     <ul>
       <li>
-        Está prohibido por parte de la pareja retadora utilizar ningún tipo de
-        comodín, ventaja o trampa en la partida.
-      </li>
-      <li>
         El dúo retado (Javi y Víctor) cuenta con 3 comodines a lo largo de la
         partida: repetir un intento, eliminar la mitad de las opciones y
         reintentar una pregunta.
+      </li>
+      <li>
+        Está prohibido por parte de la pareja retadora utilizar ningún tipo de
+        comodín, ventaja o trampa en la partida que no haya sido obtenida previa
+        al comienzo de esta.
+      </li>
+      <li>
+        La forma de obtener las pistas o comodines antes de la partida por parte
+        de la pareja retadora es pagando 1€ adicional por cada pista que desee
+        obtener, con un máximo de 3 pistas por partida. El pago se hace como
+        pareja y no individualmente, por lo que cada pista NO es 1 € por
+        persona, sino 50 cts, siendo 2,5 € el total a pagar por miembro si
+        deciden jugar con todos los comodines posibles.
       </li>
       <li>
         La última corona de cualquiera de los equipos se juega a desafío directo
@@ -129,8 +147,8 @@
       o al fracaso.
     </p>
     <p>
-      Pueden encontrarnos de lunes a jueves en el comedor de la 5º planta de
-      14:00 a 15:00 o en cualquier momento por Webbex.
+      Pueden encontrarnos los lunes, martes y jueves en el comedor de la 5º
+      planta de 14:00 a 15:00 o en cualquier momento por Webbex.
     </p>
     <p>Todo dicho. ¡Mucha suerte y nos vemos las caras pronto!</p>
   </div>

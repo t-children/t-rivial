@@ -9,7 +9,12 @@
     <!-- Row matches from API -->
     <div v-for="match in matches" :key="match">
       <div class="row-match">
-        <p>{{ match.player1 }} - {{ match.player2 }}</p>
+        <p>
+          <span v-if="haveWon(match.result)">🏆 </span>
+          {{ match.player1 }} -
+          {{ match.player2 }}
+          <span v-if="haveWon(match.result)"> 🏆</span>
+        </p>
         <p>
           {{ ("0" + new Date(match.date).getDate()).slice(-2) }}/{{
             ("0" + parseInt(new Date(match.date).getMonth() + 1)).slice(-2)
@@ -38,6 +43,16 @@ export default {
       .catch((error) => {
         console.error(error);
       });
+  },
+  methods: {
+    haveWon(str) {
+      let results = str.split(" ");
+      if (results[0] > results[1]) {
+        return true;
+      } else {
+        return false;
+      }
+    }
   }
 };
 </script>
