@@ -3,7 +3,8 @@
     <figure>
       <img src="@/assets/img/cofre.png" alt="Treasure Chest" />
       <figcaption>
-        <span>{{ amount }} €</span> pot!
+        <img v-if="loading" src="../assets/img/loading-gif.gif" alt="Loading" />
+        <span v-else>{{ amount }} €</span> pot!
       </figcaption>
     </figure>
   </div>
@@ -13,7 +14,8 @@
 export default {
   data() {
     return {
-      amount: 0
+      amount: 0,
+      loading: true
     };
   },
   async created() {
@@ -21,6 +23,7 @@ export default {
       .get("/pot")
       .then((response) => {
         this.amount = response.data;
+        this.loading = false;
       })
       .catch((error) => {
         console.error(error);
@@ -45,6 +48,15 @@ figure {
     width: 100%;
     text-align: center;
     font-size: 1.4rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      width: 30px;
+      height: 30px;
+    }
 
     span {
       font-size: 2rem;
